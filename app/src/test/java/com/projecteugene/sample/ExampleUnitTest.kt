@@ -1,4 +1,4 @@
-package com.projecteugene.parcelable
+package com.projecteugene.sample
 
 import org.junit.Test
 
